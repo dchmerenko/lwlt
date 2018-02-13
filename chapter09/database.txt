@@ -1,0 +1,4 @@
+dbname: books
+user: bookorama@localhost
+password: bkrmpass
+
